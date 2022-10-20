@@ -1,3 +1,8 @@
+/* transaction */
+.header-color{
+    padding: 25px;
+    background-color: #dfd7d9;
+}
 /* slider */
 .slider-shirt-bg-info{
     color: white;
@@ -49,6 +54,20 @@
 /* subscriber */
 .subscriber{
     background-color: #88baae;
+}
+.green-button{
+    background-color: #88baae;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: white;
 }
 /* button */
 .button-color{
