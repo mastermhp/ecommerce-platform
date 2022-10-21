@@ -23,19 +23,19 @@
 }
 /* categories */
 .categories-shirt-bg{
-    background-color: rgb(145, 202, 248);
+    background-image: linear-gradient(rgba(128, 40, 92, 1), rgba(188, 29, 77, 1));
 }
 .categories-pant-bg{
-    background-color: darkgray;
+    background-image: linear-gradient(rgb(24, 47, 127, 1), rgba(77, 27, 70, 1));
 }
 .categories-tshirt-bg{
-    background-color: rgb(213, 158, 253);
+    background-image: linear-gradient(rgba(247, 98, 112, 1), rgba(229, 51, 87, 1));
 }
 .categories-shoe-bg{
-    background-color: #fd7b93;
+    background-image: linear-gradient(rgb(170, 56, 69, 1), rgba(201, 233, 247, 1));
 }
 .categories-hoodie-bg{
-    background-color: rgb(193, 252, 134);
+    background-image: linear-gradient(rgb(85, 29, 226, 1), rgba(214, 46, 133, 1), rgba(227, 89, 38, 1));
 }
 .categories img{
     width: 80px;
@@ -53,7 +53,14 @@
 }
 /* subscriber */
 .subscriber{
-    background-color: #88baae;
+    background-image: linear-gradient(#ff448e, #3997e2);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: white;
 }
 .green-button{
     background-color: #88baae;
