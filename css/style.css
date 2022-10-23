@@ -6,7 +6,7 @@
 /* slider */
 .slider-shirt-bg-info{
     color: white;
-    background-color: #be7e8a;
+    background-color: #fd98aa;
 }
 .slider-pant-bg-info{
     color: white;
@@ -78,7 +78,7 @@
 }
 /* button */
 .button-color{
-    background-color: #fd7b93; /* Green */
+    background-image: linear-gradient(rgba(120, 20, 42, 1), rgba(16, 24, 45, 1));
     border: none;
     border-radius: 10px;
     color: white;
@@ -90,4 +90,8 @@
     margin: 4px 2px;
     cursor: pointer;
     color: white;
+}
+
+.footer{
+    color: rgba(120, 20, 42, 1);
 }
